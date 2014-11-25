@@ -1,0 +1,28 @@
+@import url(http://fonts.googleapis.com/css?family=Rock+Salt);
+
+<link href='http://fonts.googleapis.com/css?family=Rock+Salt' rel='stylesheet' type='text/css'>
+
+font-family: 'Rock Salt', cursive;
+
+@import url(http://fonts.googleapis.com/css?family=Yesteryear|Rock+Salt|Griffy&subset=latin,latin-ext);
+
+<link href='http://fonts.googleapis.com/css?family=Yesteryear|Rock+Salt|Griffy&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+font-family: 'Yesteryear', cursive;
+
+font-family: 'Griffy', cursive;
+
+
+<div class="enjoy-css">Enjoy</div>
+<link async href="http://fonts.googleapis.com/css?family=Rock%20Salt" data-generated="http://enjoycss.com" rel="stylesheet" type="text/css"/>
+
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  border: none;
+  font: normal normal bold 28px/normal "Rock Salt", Helvetica, sans-serif;
+  color: rgba(255,96,5,0.9);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: #3498db;
+  text-shadow: 2px 2px 2px rgba(0,0,0,0.65) ;

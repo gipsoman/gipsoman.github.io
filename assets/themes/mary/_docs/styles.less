@@ -1,0 +1,231 @@
+@import "variables.less";
+@import "less/variables.less";
+@import "lesshat.less";
+@import url(http://fonts.googleapis.com/css?family=Rock+Salt);
+
+
+
+.choose_country ul{ 
+	text-align: center;
+	// float: right;
+	li{
+	
+	display: inline;
+	list-style: none;
+	padding: 3px;}
+}
+.choose_country a {
+  
+  text-decoration: none;
+  &:active,
+  &:hover,
+  &:focus {
+    opacity: 0.5;
+  }
+}
+.navbar{
+  margin-bottom: 0px;
+}
+.navbar-default {
+  border-bottom: 4px solid @br-color;
+  .navbar-brand {
+    color: @n-def-brand-color;
+    -o-text-overflow: clip;
+  text-overflow: clip;
+  
+  text-shadow: @t-shadow;
+    &:hover,
+    &:focus {
+      color: @n-def-brand-hover-color;
+      -o-text-overflow: clip;
+  text-overflow: clip;
+  
+  text-shadow: @t-shadow;
+      background-color: @n-def-brand-hover-bg;
+
+  
+    }}
+.navbar-nav {
+    > li > a {
+      color: @n-def-link-color;
+      font-size: 16px;
+            
+
+      &:hover,
+      &:focus {
+        color: @n-def-link-hover-color;
+        background-color: @n-def-link-hover-bg;
+      }
+    }
+    > .active > a {font-weight: bold;
+      color: @n-def-link-color;
+      
+      &:hover,
+      &:focus {
+      color: @n-def-link-hover-active-color;
+        
+        background-color: @n-def-link-active-bg;
+      }
+    }
+    > .disabled > a {
+      &,
+      &:hover,
+      &:focus {
+        color: @n-def-link-disabled-color;
+        background-color: @n-def-link-disabled-bg;
+      }
+    }
+  }
+}
+
+.sl{
+  background-color: #C0C0C0;
+
+}
+
+.navbar-brand {
+  float: left;
+  padding: @navbar-padding-vertical @navbar-padding-horizontal;
+  margin-bottom: 5px;
+  font-size: 28px;
+  line-height: @line-height-computed;
+  height: @navbar-height;
+  font-family: "Rock Salt",sans-serif;
+  font-weight: bold;
+
+  &:hover,
+  &:focus {
+    text-decoration: none;
+  }
+
+  @media (min-width: @grid-float-breakpoint) {
+    .navbar > .container &,
+    .navbar > .container-fluid & {
+      margin-left: -@navbar-padding-horizontal;
+    }
+  }
+}
+
+body {
+  font-family: @font-family-serif;
+  font-size: @font-size-base;
+  line-height: @line-height-base;
+  color: @text-color;
+  background-image: url("/assets/themes/mary/img/page-background.png");
+}
+
+.conta {
+  background-color: #fff;
+  padding-top: 20px;
+}
+.brand-fa{
+  color: @n-def-brand-color;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3 {
+  margin-top: @line-hg-com;
+  margin-bottom: (@line-height-computed / 2);
+
+  small,
+  .small {
+    font-size: 65%;
+  }
+}
+
+/* Posts List */
+
+.blog-post{
+  background: #FFF;
+  position: relative;
+  margin: 20px 0;
+  border: 7px solid #FFF;
+ 
+  .border-radius(5px);
+  .box-shadow(~"inset 0 1px #fff,0 0 8px #c8cfe6");
+  .post-info{
+    background: #000;
+    background: rgba(0,0,0,0.6);
+    color: #FFF;
+   
+    position: absolute;
+    padding: 5px;
+    left: 10px;
+    top: 10px;
+    .border-radius (5px);
+  }
+  .post-comments-count{
+    text-align: center;
+  }
+}
+
+/*--------------------------------------------------------------------------
+  Footer Style
+--------------------------------------------------------------------------*/
+
+.footer{
+  background: #222;
+  color: #A0A0A0;
+  padding: 0 20px 10px 20px;
+  border-top: 4px solid @br-color;
+  margin-top: 20px;
+  .box-shadow(~"0 -1px 12px rgba(0,0,0,0.4)");
+  h3{
+    color: #E4E4E4;
+    font-size: 1.3em;
+    border-bottom: 1px dotted #7C7C7C;
+  }
+  ul{
+    padding: 0;
+  }
+}
+
+.footer-navigate-section li{
+  line-height: 20px !important;
+}
+
+.footer-stay-connected{
+  a{
+    text-align: left;
+    text-indent: -9999px;
+    display: block;
+    width: 115px;
+    height: 40px;
+    background: ~"url(../img/stay-connected.png)";
+    .opacity(0.5);
+    .transition(~"opacity .25s linear");
+    &:hover{
+      .opacity(1);
+    }
+  }
+  a.facebook{
+    background-position: -115px 0;
+  }
+  a.twitter{
+    background-position: -230px 0;
+  }
+  a.googleplus{
+    background-position: 0 0;
+  }
+  li{
+    text-align: center;
+  }
+}
+
+.footer-copyright{
+  text-align: center;
+  color: #7C7C7C;
+  border-top: 1px dotted #7C7C7C;
+  padding-top: 10px;
+  font-size: 0.9em;
+}
+
+
+
+
+
+
+
+
+

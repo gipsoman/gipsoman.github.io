@@ -1,0 +1,634 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"n-de",
+				"n-def-link-color"
+			],
+			[
+				"navbar-de",
+				"navbar-default-bg"
+			],
+			[
+				"na",
+				"navbar-default-color"
+			],
+			[
+				"navbar-default-b",
+				"navbar-default-border"
+			],
+			[
+				"nav",
+				"navbar-default"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"h",
+				"hr	Tag"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"d",
+				"div	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 391.0,
+		"selected_items":
+		[
+			[
+				"s",
+				"Side Bar: Refresh"
+			],
+			[
+				"sid",
+				"Side Bar: Refresh"
+			],
+			[
+				"side",
+				"Side Bar: Refresh"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"bs3-n",
+				"Snippet: bs3-navbar"
+			],
+			[
+				"Snippet: im",
+				"Snippet: bs3-image"
+			],
+			[
+				"Snippet: cl",
+				"Snippet: bs3-clearfix"
+			],
+			[
+				"Snippet: na",
+				"Snippet: bs3-navbar"
+			],
+			[
+				"Snippet: h",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Snippet: co",
+				"Snippet: bs3-container"
+			],
+			[
+				"Snippet: col2",
+				"Snippet: bs3-col-12"
+			],
+			[
+				"Snippet: ro",
+				"Snippet: bs3-row"
+			],
+			[
+				"Snippet: con",
+				"Snippet: bs3-container"
+			],
+			[
+				"Snippet: col12",
+				"Snippet: bs3-col-12"
+			],
+			[
+				"Snippet: li",
+				"Snippet: bs3-navbar-links"
+			],
+			[
+				"Snippet: li-",
+				"Snippet: bs3-list-group"
+			],
+			[
+				"Snippet: ul",
+				"Snippet: bs3-input-label"
+			],
+			[
+				"Snippet: i",
+				"Snippet: bs3-image"
+			],
+			[
+				"Snippet: bbtn-t",
+				"Snippet: bs3-button-toolbar"
+			],
+			[
+				"Snippet: btn-g",
+				"Snippet: bs3-button-group"
+			],
+			[
+				"Snippet: btn-",
+				"Snippet: bs3-button-toolbar"
+			],
+			[
+				"Snippet: lis",
+				"Snippet: bs3-list-group"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bs3-list-group-linked"
+			],
+			[
+				"Snippet: but",
+				"Snippet: bs3-button-group"
+			],
+			[
+				"Snippet: la",
+				"Snippet: bs3-label-info"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: n",
+				"Snippet: bs3-navbar"
+			],
+			[
+				"Snippet: nav",
+				"Snippet: bs3-navbar"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"bs",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"Snippet:ht",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mar",
+				"Preferences: MarkdownEditing Settings – Default"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 209.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/slider/data2/images/temp.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/slider/data2/images/londra1.jpg",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/mary.sublime-project",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/SideBar Results.hidden-tmLanguage",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/index.html",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/test_drive.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/assets/Шрифт.txt",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Andrew/assets/themes/dbyll/css/style.css",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_includes/JB/comments-providers/disqus",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/eng/index.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/assets/themes/mary/_docs/variables.less",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/assets/themes/mary/css/styles.css",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/assets/themes/mary/_docs/styles.less",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/assets/themes/mary/_docs/less/variables.less",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_includes/themes/mary/default_eng.html",
+		"/E/WEB/ThemesBootstrap/mPurpose-master/css/main.css",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_includes/JB/lang.html",
+		"/E/WEB/test/fonts/css/bootstrap.css",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/assets/themes/mary/_docs/less/navbar.less",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/assets/themes/mary/engine2/style.css",
+		"/E/WEB/Mary/site/sl/engine3/style.css",
+		"/E/WEB/test/fonts/index.html",
+		"/E/WEB/test/fonts/css/bootstrap-theme.css",
+		"/E/WEB/Mary/site/css/bootstrap.css",
+		"/E/WEB/Mary/site/sd/index.html",
+		"/E/WEB/Mary/site/index.html",
+		"/E/WEB/Mary/site/sl/index.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/assets/themes/mary/engine2/style.mod.css",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/assets/themes/mary/engine2/wowslider.js",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/assets/themes/mary/engine2/script.js",
+		"/E/WEB/ThemesBootstrap/mPurpose-master/index.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/engine2/style.css",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/public/eng/index.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/slider/index.html",
+		"/E/WEB/Mary/best/news-box.html",
+		"/E/WEB/Mary/best/index.html",
+		"/E/WEB/Mary/best/car.html",
+		"/C/Users/Andrew/Documents/WOW Slider/engine1/jquery.js",
+		"/C/Users/Andrew/Documents/WOW Slider/engine1/wowslider.mod.js",
+		"/C/Users/Andrew/Documents/WOW Slider/engine1/wowslider.js",
+		"/C/Users/Andrew/Documents/WOW Slider/engine1/script.js",
+		"/C/Users/Andrew/Documents/WOW Slider/engine1/style.css",
+		"/C/Users/Andrew/Documents/WOW Slider/index.html",
+		"/C/Users/Andrew/Documents/WOW Slider/engine1/style.mod.css",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/Rakefile",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/ua/fdss.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_config.yml",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/de/index.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/assets/themes/mary/css/slider.css",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/ua/index.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/ru/index.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/assets/themes/mary/js/jquery.sequence.js",
+		"/C/Users/Andrew/AppData/Local/Google/Chrome/User Data/Default/Extensions/hbdpomandigafcibbmofojjchbcdagbl/3.8.12_0/_metadata/verified_contents.json",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_includes/themes/mary/page_de.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_includes/themes/mary/page_ru.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_includes/themes/mary/page_ua.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_includes/themes/mary/default_de.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_includes/themes/mary/default_ru.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_includes/themes/mary/default_ua.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_includes/themes/mary/page_eng.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_layouts/page_ru.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_layouts/page_de.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_layouts/page_ua.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_includes/themes/twitter/default.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/eng/about.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_layouts/page_eng.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_includes/JB/slider.html",
+		"/C/Program Files/Git/etc/gitconfig",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/E/WEB/Mary/SUPER_MARY/index.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_layouts/default_ua.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_layouts/default_ru.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_layouts/default_de.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/eng/sweeft.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/ua/sweeft.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_includes/themes/mary/default.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_layouts/default_eng.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_layouts/default.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/de/sweeft.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_includes/themes/bootstrap-3/page.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/ru/sweeft.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/index.md",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_includes/themes/twitter/page.html",
+		"/E/WEB/AQWA/droboshok.github.io/_config.yml",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_layouts/page.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_posts/ukr/2014-09-05-new-post.md",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_includes/themes/mary/docs/lang.html",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_posts/2014-09-05-new-post.md",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_includes/themes/bootstrap-3/default.html",
+		"/E/WEB/Mary/SUPER_MARY/mary/manifest.yml",
+		"/E/WEB/ThemesBootstrap/Desing/hooligan-master/manifest.yml",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_includes/themes/mary/settings.yml",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/_includes/themes/bootstrap-3/settings.yml",
+		"/E/WEB/test/mary_jekyll/jekyll-bootstrap/assets/themes/twitter/css/style.css",
+		"/E/WEB/test/mary_jekyll/_includes/header.html",
+		"/E/WEB/test/mary_jekyll/_includes/head.html",
+		"/E/WEB/test/test1/_plagins/debug.rb",
+		"/E/WEB/test/mary_jekyll/de/about.html",
+		"/E/WEB/test/test1/index.html",
+		"/E/WEB/test/mary_jekyll/Rakefile",
+		"/E/WEB/test/mary_jekyll/_config.yml",
+		"/E/WEB/jekyll-bootstrap  temp/S/_includes/themes/dbyll/default.html",
+		"/E/WEB/test/mary_jekyll/ua/index.html",
+		"/E/WEB/test/mary_jekyll/_includes/docs/chose_counrty.html",
+		"/E/WEB/jekyll-bootstrap  temp/S/_config.yml",
+		"/E/WEB/jekyll-bootstrap  temp/S/_layouts/default.html",
+		"/E/WEB/jekyll-bootstrap  temp/S/_plugins/debug.rb",
+		"/E/WEB/test/mary_jekyll/ua/index.md",
+		"/E/WEB/test/test1/_data/drops.yml",
+		"/E/WEB/test/mary_jekyll/asdt.md",
+		"/D/Soft/File/SublimeText_Keygen",
+		"/E/WEB/test/mary_jekyll/_layouts/page.html",
+		"/E/WEB/test/test1/_sass/_layout.scss",
+		"/E/WEB/test/mary_jekyll/_includes/footer.html",
+		"/E/WEB/test/mary_jekyll/about.md",
+		"/E/WEB/test/mary_jekyll/_includes/index.html",
+		"/E/WEB/test/mary_jekyll/index.html",
+		"/E/WEB/test/mary_jekyll/_site/index.html",
+		"/E/WEB/test/mary_jekyll/_layouts/default.html",
+		"/E/WEB/test/mary_jekyll/_posts/2014-09-04-welcome-to-jekyll.markdown"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"section",
+			"+g",
+			"g",
+			"ctrl+g",
+			"ctrl+shift+p",
+			"snippet",
+			"abra",
+			"Показываю",
+			"div",
+			"ctrl",
+			"@navbar-padding-vertical",
+			"navbar-pad",
+			"font-f",
+			"brand",
+			"brand     ",
+			"brand",
+			"font",
+			"brand",
+			"font-f",
+			"sl/",
+			"width",
+			"weidth",
+			"max",
+			"weidth",
+			"width",
+			" weidht:960px\n",
+			"960px\n",
+			"960\n",
+			";\n",
+			"font-f",
+			"font",
+			"font-family",
+			"font-fa",
+			"Snippet",
+			"/img/homepage-slider",
+			"{{BASE_PATH}}",
+			"@navbar-default",
+			"nav",
+			"active",
+			"@import \"variables.less\";\n#eeeeee",
+			"@brand-primary",
+			"@primare",
+			"@primari",
+			"@primary",
+			"@navbar-default-border",
+			"navbar",
+			"@navbar-brand",
+			"navbar-brand",
+			"navbar",
+			"navbar-fixed-top ",
+			"navbar",
+			"auto_complete\nauto_complete\nauto_complete\nauto_complete\nauto_complete",
+			"auto_complete\n",
+			"carousel-control",
+			"carousel-control-width",
+			"homepage",
+			"slider",
+			"homepage-slider",
+			"@media",
+			"col-md-2",
+			"toppanel",
+			"topanel",
+			"topaanel",
+			"toooanel",
+			"<div class=\"col-md-3 img-portfolio\">",
+			"<li class=\"span3\">",
+			"<img src=\"360x240\" alt=\"\">",
+			"<a href=\"http://s.codepen.io/szymipl/fullpage/nLdiI?#\">",
+			"<a class=\"btn btn-mini\" href=\"http://s.codepen.io/szymipl/fullpage/nLdiI?#\">",
+			"href=\"http://s.codepen.io/szymipl/fullpage/nLdiI?#\">",
+			"<li class=\"col-lg-3\">",
+			"<div class=\"thumbnail\">",
+			"<li class=\"col-lg-3\">            ",
+			">            ",
+			"navbar-brand",
+			"navdar-brand",
+			"font-family",
+			"breadcrumb",
+			"font-family",
+			"ont-family",
+			"breadcrumb",
+			"navbar",
+			"about",
+			"navbar-nav",
+			"nav",
+			"nav>li",
+			"dashboard",
+			"dashboare",
+			"nav",
+			"navbar-inverse",
+			"navbar-brand",
+			".navbar-brand {\nfloat: left;\nheight: 50px;\npadding: 15px 15px;\nfont-size: 18px;\nline-height: 20px;\n.navbar-brand {\nfloat: left;\nheight: 50px;\npadding: 15px 15px;\nfont-size: 18px;\nline-height: 20px;\n}",
+			"navbar-brand"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"{{ BASE_PATH }}",
+			"/img",
+			"http://localhost:4000",
+			"@n-def",
+			"col-md-4",
+			"<div class=\"col-xs-4 col-md-2 img-portfolio\">",
+			"<li class=\"col-md-3 img-portfolio\">",
+			"<img src=\"1.jpg\" alt=\"\">",
+			"<a href=\"#\">",
+			"<a class=\"btn btn-sm\" href=\"#\">",
+			"href=\"#\">",
+			"<li>",
+			"<div class=\"col-md-3 img-portfolio\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}
